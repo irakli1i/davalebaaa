@@ -1,0 +1,129 @@
+body{
+    background-color: rgba(34, 42, 54, 0.95);
+}
+.header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.w-100{
+    width: 100%;
+}
+.navbar-brand{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 45px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.nav-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.btn{
+    padding: 18px 28px;
+    width: 152px;
+    height: 50px;
+    background: #676CDB;
+    color: #FFFFFF;
+    font-weight: 600;
+}
+.banner_text{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 90px;
+    line-height: 120%;
+    color: #FFFFFF;
+}
+.text_gray{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 180%;
+    color: rgba(255, 255, 255, 0.5);
+}
+.text_white{
+    color: #FFFFFF;
+}
+.banner{
+    background-image: url(../src/images/Rectangle\ 3.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-top:140px;
+    padding-bottom: 140px;
+}
+.dowload{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+.image{
+    background-color: #000000;
+    width: 100%;
+}
+.text_one{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 180%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.text_left{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 180%;
+    color: #FFFFFF;
+}
+.four{
+    width: 133px;
+    height: 211.96px;
+    left: 353px;
+    top: 1386px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 120%;
+    color: #676CDB;
+}
+.card_left{
+    height: 286.4px;
+    left: 1021px;
+    top: 1386.05px;
+    background: #676CDB;
+    transform: rotate(90.47deg);
+}
+.card_one{
+    width: 288px;
+    height: 288px;
+    left: 1032px;
+    top: 1386px;
+    background: #C4C4C4;
+}
+.card_two{
+    width: 288px;
+    height: 288px;
+    left: 1032px;
+    top: 1716px;
+    background: #C4C4C4;
+}
